@@ -14,3 +14,13 @@ Aproveite!
 
 https://www.mermaid.ai/app/projects/a56798de-6332-4d91-8477-62488313709c/diagrams/c6e71630-1f84-496b-9271-a55261bf868a/share/invite/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb2N1bWVudElEIjoiYzZlNzE2MzAtMWY4NC00OTZiLTkyNzEtYTU1MjYxYmY4NjhhIiwiYWNjZXNzIjoiVmlldyIsImlhdCI6MTc3MDY4MTMyMH0.3yiTQ3pcWpWhyAW-fmXYArIJ-YYej5j\_moh0NTZ7WaI
 
+
+
+* ENTREGA ÚNICA
+* PEDIDO\_VENDEDOR DESNECESSÁRIO CONSIDERANDO QUE AS ENTIDADES ESTÃO LIGADAS À AO PEDIDO ORIGINAL
+* CARRINHO DESNECESSÁRIO JÁ QUE PEDIDO JÁ INCLUI O NECESSÁRIO
+* USUÁRIO É TANTO VENDEDOR QUANTO CLIENTE
+* A ENTREGA VEM APÓS CONFIRMAÇÃO DO PAGAMENTO
+
+usuário faz o pedido escolhendo produtos que podem estar ligados à diferentes usuários, após confirmação do pedido é criado uma confirmação de pagamento e após confirmado o pagamento a entrega é iniciado escolhendo os locais que estão ligados aos usuários donos dos pedidos para que assim seja escolhida a melhor rota e é feita a entrega
+
